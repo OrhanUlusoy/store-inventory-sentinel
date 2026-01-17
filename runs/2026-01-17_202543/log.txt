@@ -1,2 +1,0 @@
-Run started: 2026-01-17_202543
-Sales data loaded: 15000 rows
