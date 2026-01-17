@@ -1,0 +1,7 @@
+Run started: 2026-01-17_230918
+Sales data loaded: 15000 rows
+Columns found: ['Unnamed: 0', 'price', 'discount', 'promotion_intensity', 'footfall', 'ad_spend', 'competitor_price', 'stock_level', 'weather_index', 'customer_sentiment', 'return_rate']
+Data validation passed
+Inventory analysis completed
+Product classification completed
+Recommendations generated

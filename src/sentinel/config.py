@@ -1,0 +1,4 @@
+RISK_THRESHOLDS = {
+    "ACTION_REQUIRED": 2.0,
+    "RISK": 1.0,
+}
